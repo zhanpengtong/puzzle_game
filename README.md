@@ -12,13 +12,7 @@ An interactive image-based puzzle game built using Python and the Turtle graphic
 - 📂 **File-based Save/Load** – Modular handling of puzzles and scores using plain text files.  
 
 ## 📂 File Structure  
-puzzle_game/
-├── puzzle_game.py # Main script to launch the game
-├── leader.txt # Persistent leaderboard storage
-├── Resources/
-│ ├── *.gif # Puzzle images, game UI assets (splash, win, lose screens)
-│ ├── *.puz # Custom puzzle configuration files (tile layout metadata)
-├── README.md # You're reading it!
+<pre> puzzle_game/ ├── puzzle_game.py # Main script to run the puzzle game ├── leader.txt # Leaderboard record file (persistent) ├── README.md # Project documentation ├── Resources/ # Puzzle assets and game UI resources │ ├── *.puz # Custom puzzle configuration files │ ├── *.gif # Puzzle and UI images (splash, win/lose screens) </pre>
 
 
 ## ⚙️ How to Run  
