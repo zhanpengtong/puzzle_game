@@ -1,0 +1,2 @@
+expected str, bytes or os.PathLike object, not NoneType
+[Errno 2] No such file or directory: 'yoshi'

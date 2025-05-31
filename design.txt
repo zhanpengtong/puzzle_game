@@ -1,0 +1,3 @@
+This is my first project and I think it's a big challenge for me. Because there are so many factors to consider. I need to find a lot of knowledge and codes that I have never touched, such as import os.
+
+The biggest difficulty I experienced in the process of doing it was the positioning and adjustment of the puzzle. In order to achieve the desired effect, I tried to rewrite my entire code three or four times. First time I try to use class for my project. But when the writing was basically completed, I found that because of the existence of the variable (self), I could not load the coordinates into my class. The variable (self) will replace the position of the next variable to read the x coordinate
